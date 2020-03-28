@@ -1,4 +1,4 @@
-Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;;
+pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;;
 CANADA,TECUN UMAN,05/09/2016, 87032490,2002,ACURA,MDX 4X4,3500,LIVIANO,CAMIONETA,OCASIONAL,GASOLINA,5,4,0,26239.9,3148.79,;;
 JAPON,EL CARMEN,04/09/2016, 87032369,2002,ACURA,RSX,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,2,0,10334.6,1240.15,;;
 JAPON,G8; CENTRALSA,23/08/2016, 87032369,2005,ACURA,RSX,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,4,2,0,12171.08,1460.53,;
