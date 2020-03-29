@@ -1,4 +1,4 @@
-Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;
+pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;
 JAPON,PUERTO BARRIOS,12/03/2019, 87032369,2012,MAZDA,MAZDA3,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,21813.8,2617.66,;
 INDIA,PUERTO QUETZAL,12/03/2019, 8711209000,2019,SUZUKI,UZ125EX,125,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,304467.25,36536.07,;
 INDIA,PUERTO QUETZAL,12/03/2019, 8711209000,2019,SUZUKI,UZ125EX,125,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,304467.25,36536.07,;

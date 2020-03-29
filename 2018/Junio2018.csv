@@ -1,4 +1,4 @@
-Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
+pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
 ALEMANIA REP. FED.,EXPRESS AEREO,06/07/2018, 8704216100,2003,DODGE,SPRINTER,2700,LIVIANO,PANEL,OCASIONAL,DIESEL,2,5,1.5,41605.56,4992.67,
 JAPON,EL CARMEN,06/07/2018, 8711209000,2006,KAWASAKI,BN125-A ELIMINATOR,125,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,12858.2,1542.98,
 COREA DEL SUR,PUERTO BARRIOS,06/07/2018, 8703236900,2015,HYUNDAI,ACCENT GS,1600,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,20351.84,2442.22,

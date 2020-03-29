@@ -1,4 +1,4 @@
-Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
+pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
 JAPON,PUERTO BARRIOS,09/03/2017, 8703236900,2006,ACURA,RSX,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,4,2,0,8357.91,1002.95,
 ESTADOS UNIDOS,PUERTO BARRIOS,08/03/2017, 8703249000,2003,ACURA,TL TYPE-S,3200,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,11050.45,1326.05,
 JAPON,PUERTO BARRIOS,17/03/2017, 8703237900,2004,ACURA,TS-X,2400,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,20461.91,2455.43,

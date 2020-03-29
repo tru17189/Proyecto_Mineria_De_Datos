@@ -1,4 +1,4 @@
-Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
+pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
 ESTADOS UNIDOS,EXPRESS AEREO,04/06/2018, 87012000,1995,FORD,AEROMAX L9000,14010,PESADO,CABEZAL,OCASIONAL,DIESEL,2,2,15,32964.19,3955.7,
 CHINA,PUERTO QUETZAL,29/05/2018, 8711209000,2018,SERPENTO,KRAIT 150,150,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,401292.06,48155.05,
 CHINA,PUERTO QUETZAL,29/05/2018, 8711209000,2018,SERPENTO,KRAIT 150,150,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,401292.06,48155.05,

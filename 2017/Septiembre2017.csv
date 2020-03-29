@@ -1,4 +1,4 @@
-Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
+pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
 MEXICO,PUERTO BARRIOS,13/09/2017, 8703236900,2015,NISSAN,VERSA,1600,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,17777.9,2133.35,
 JAPON,PUERTO BARRIOS,13/09/2017, 8704315100,1991,TOYOTA,4X4 X/C,3000,LIVIANO,PICK UP,OCASIONAL,GASOLINA,5,2,1,13300.61,1596.07,
 JAPON,EL CARMEN,13/09/2017, 8704315100,1992,TOYOTA,4X4 XTRA CAB DLX,2400,LIVIANO,PICK UP,OCASIONAL,GASOLINA,4,2,1,17354.96,2082.6,
