@@ -1,4 +1,4 @@
-pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto,
 ESTADOS UNIDOS,EL CARMEN,29/04/2017, 8703249000,2005,ACURA,TL,3200,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,22603.81,2712.46,
 "CANADA,G8,"" CENTRALSA,02/05/2017, 8703236900,2006,ACURA,CSX,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,9994.54,1199.34,"""
 CANADA,EL CARMEN,02/05/2017, 8703249000,2004,ACURA,MDX BASE,3500,LIVIANO,CAMIONETA,OCASIONAL,GASOLINA,5,4,0,20402.42,2448.29,

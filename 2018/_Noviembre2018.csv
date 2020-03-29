@@ -1,4 +1,4 @@
-pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto,
 JAPON,EXPRESS AEREO,09/11/2018, 8704215100,2013,TOYOTA,LAND CRUISER,4164,LIVIANO,PICK UP,OCASIONAL,DIESEL,2,2,1.5,129219.02,15506.28,
 INDIA,PUERTO QUETZAL,13/11/2018, 8711209000,2019,YAMAHA,XC115B,115,LIVIANO,MOTO,DISTRIBUIDOR,GASOLINA,2,0,0,848386.72,101806.41,
 INDIA,PUERTO QUETZAL,13/11/2018, 8711209000,2019,YAMAHA,XC115B,115,LIVIANO,MOTO,DISTRIBUIDOR,GASOLINA,2,0,0,848386.72,101806.41,

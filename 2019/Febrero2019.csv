@@ -1,4 +1,4 @@
-pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
 ESTADOS UNIDOS,EXPRESS AEREO,21/02/2019, 8703237900,2004,TOYOTA,CAMRY LE,2400,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,16372.82,1964.74,;
 ESTADOS UNIDOS,EXPRESS AEREO,21/02/2019, 8711209000,2008,HONDA,CRF100F,99,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,2183.06,261.97,;
 JAPON,SANTO TOMAS DE CASTILLA,14/02/2019, 8703236900,2008,MITSUBISHI,LANCER,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,11923.84,1430.86,;

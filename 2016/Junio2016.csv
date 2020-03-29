@@ -1,4 +1,4 @@
-pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
 CANADA,EL CARMEN,25/06/2016, 87032490,2001,ACURA,MDX TOURING AWD,3500,LIVIANO,CAMIONETA,OCASIONAL,GASOLINA,7,4,0,22204.66,2664.56,;
 JAPON,EL CARMEN,11/06/2016, 87032379,2004,ACURA,TSX,2400,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,14814.51,1777.74,;
 ESTADOS UNIDOS,EL CARMEN,05/07/2016, 87032379,1999,ACURA,3.0CL,3000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,2,0,14997.1,1799.65,;

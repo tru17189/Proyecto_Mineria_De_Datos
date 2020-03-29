@@ -1,4 +1,4 @@
-pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
 CHINA,PUERTO QUETZAL,03/05/2019, 8711209000,2019,ITALIKA,GTK125,125,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,443025.82,53163.1,;
 CHINA,PUERTO QUETZAL,03/05/2019, 8711209000,2019,ITALIKA,GTK125,125,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,443025.82,53163.1,;
 CHINA,PUERTO QUETZAL,03/05/2019, 8711209000,2019,ITALIKA,GTK125,125,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,443025.82,53163.1,;

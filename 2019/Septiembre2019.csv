@@ -1,4 +1,4 @@
-pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
 CHINA,PUERTO QUETZAL,16/09/2019, 8711209000,2020,HONDA,XR190L,190,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,2973127.66,356775.32,;
 CHINA,PUERTO QUETZAL,16/09/2019, 8711209000,2020,HONDA,XR190L,190,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,2973127.66,356775.32,;
 CHINA,PUERTO QUETZAL,16/09/2019, 8711209000,2020,HONDA,XR190L,190,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,2973127.66,356775.32,;

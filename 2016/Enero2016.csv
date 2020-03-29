@@ -1,4 +1,4 @@
-pais,Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo_del_Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
 ESTADOS UNIDOS,PUERTO BARRIOS,14/01/2016, 87032379,2007,ACURA,TSX,2400,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,19573.22,2348.79,;
 JAPON,PUERTO QUETZAL,26/01/2016, 87032369,2002,ACURA,RSX TYPE-S,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,4,2,0,17120.19,2054.42,;
 ESTADOS UNIDOS,PUERTO BARRIOS,09/01/2016, 87032369,2004,ACURA,RSX,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,2,0,11265.14,1351.82,;

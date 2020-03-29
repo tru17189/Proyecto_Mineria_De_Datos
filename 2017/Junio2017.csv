@@ -1,4 +1,4 @@
-pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto,
 CANADA,EL CARMEN,01/07/2017, 8703249000,2007,ACURA,MDX SH AWD,3700,LIVIANO,CAMIONETA,OCASIONAL,GASOLINA,7,4,0,35795.78,4295.49,
 JAPON,SANTO TOMAS DE CASTILLA,20/06/2017, 8703237900,2004,ACURA,TSX,2400,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,15579,1869.48,
 JAPON,PUERTO BARRIOS,06/07/2017, 8703236900,2005,ACURA,INTEGRA RSX,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,4,2,0,29695.01,3563.4,

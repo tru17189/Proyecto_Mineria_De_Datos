@@ -1,4 +1,4 @@
-pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
 ESTADOS UNIDOS,EXPRESS AEREO,10/12/2018, 8702107000,2003,FORD,E350 SUPER DUTY,7300,PESADO,BUS,OCASIONAL,DIESEL,20,3,5,19099.28,2291.91,;
 INDIA,PUERTO QUETZAL,11/12/2018, 8711209000,2019,BAJAJ,PULSAR 180 UG4,179,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,1958409.53,235009.14,;
 INDIA,PUERTO QUETZAL,11/12/2018, 8711209000,2019,BAJAJ,PULSAR 180 UG4,179,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,1958409.53,235009.14,;

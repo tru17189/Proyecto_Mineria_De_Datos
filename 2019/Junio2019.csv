@@ -1,4 +1,4 @@
-pais,Pais de Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto;
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
 COREA DEL SUR,PUERTO QUETZAL,20/06/2019, 8703327900,2004,KIA,SORENTO LIMITED,2500,LIVIANO,CAMIONETA,OCASIONAL,DIESEL,7,5,0,16676.35,2001.16,;
 JAPON,SANTO TOMAS DE CASTILLA,20/06/2019, 8703236900,2013,MITSUBISHI,LANCER ES,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,14621.27,1754.55,;
 JAPON,EL CARMEN,26/06/2019, 8704315100,1989,TOYOTA,DLX 4X4,2400,LIVIANO,PICK UP,OCASIONAL,GASOLINA,2,2,1,28539.83,3424.78,;
