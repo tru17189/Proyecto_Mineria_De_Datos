@@ -1,4 +1,4 @@
-Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Pais_de_Proveniencia,Impuesto,
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo_del_Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Pais_de_Proveniencia,Impuesto,
 MEXICO,EXPRESS AEREO,12/04/2018, 87032369,2003,NISSAN,SENTRA GXE,1800,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,15500.47,1860.06,
 "ESTADOS UNIDOS,G4,"" ALSERSA,09/04/2018, 8704315100,1995,TOYOTA,EXTRA CAB DX 4X2,2400,LIVIANO,PICK UP,OCASIONAL,GASOLINA,4,2,1,32821.81,3938.62,"""
 "ESTADOS UNIDOS,G4,"" ALSERSA,09/04/2018, 8704315100,1994,TOYOTA,ESTANDAR 4X2,2400,LIVIANO,PICK UP,OCASIONAL,GASOLINA,2,2,1,19272.13,2312.66,"""

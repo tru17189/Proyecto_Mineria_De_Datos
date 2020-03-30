@@ -1,4 +1,4 @@
-Pais_de_Proveniencia,Puerto,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto
+Pais_de_Proveniencia,Puerto,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo_del_Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto
 ESTADOS UNIDOS,G1, INTEGRADA,09/01/2018, 8701920000,2017,KUBOTA,L3901DT,1826,PESADO,TRACTOR,OCASIONAL,DIESEL,1,0,2,116170.1,13940.41,
 REINO UNIDO,G4, ALSERSA,12/01/2018, 8703237900,2003,HONDA,CR-V EX,2400,LIVIANO,CAMIONETA,OCASIONAL,GASOLINA,5,4,0,15659.56,1879.15,
 COREA DEL SUR,EL CARMEN,10/01/2018, 8703237900,2013,KIA,SPORTAGE LX AWD,2400,LIVIANO,CAMIONETA,OCASIONAL,GASOLINA,5,4,0,27702.88,3324.35,

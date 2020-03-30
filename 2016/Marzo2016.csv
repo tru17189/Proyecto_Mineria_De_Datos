@@ -1,4 +1,4 @@
-Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo_del_Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
 CANADA,PUERTO BARRIOS,18/03/2016, 87032490,2007,ACURA,MDX SH AWD,3700,LIVIANO,CAMIONETA,OCASIONAL,GASOLINA,7,4,0,74379.2,8925.5,;
 JAPON,PUERTO BARRIOS,06/04/2016, 87032369,2002,ACURA,RSX,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,4,2,0,9251.64,1110.2,;
 JAPON,PUERTO BARRIOS,16/03/2016, 87032369,1996,ACURA,INTEGRA SPECIAL EDITION,1800,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,12998.5,1559.82,;

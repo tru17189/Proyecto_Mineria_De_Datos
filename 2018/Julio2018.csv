@@ -1,4 +1,4 @@
-Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto,
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo_del_Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto,
 "JAPON,G8,"" CENTRALSA,10/07/2018, 8703236900,2013,MAZDA,MAZDA3i,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,21849.4,2621.93,"""
 CANADA,TECUN UMAN,19/07/2018, 8703236900,2009,TOYOTA,COROLLA S,1800,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,24109.65,2893.16,
 JAPON,TECUN UMAN,19/07/2018, 8703237900,2012,MAZDA,MAZDA5,2500,LIVIANO,MICROBUS,OCASIONAL,GASOLINA,7,4,0,14770.63,1772.48,

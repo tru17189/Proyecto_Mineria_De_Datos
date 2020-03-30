@@ -1,4 +1,4 @@
-Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto,
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo_del_Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto,
 JAPON,EXPRESS AEREO,13/02/2018, 87042290,2002,HINO,FA,3900,PESADO,CAMION,OCASIONAL,DIESEL,3,2,6,86065.6,10327.87,
 "JAPON,G8,"" CENTRALSA,19/02/2018, 8703236900,2010,MAZDA,MAZDA3 I,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,12120.21,1454.43,"""
 ESTADOS UNIDOS,EXPRESS AEREO,26/02/2018, 8704315100,1991,ISUZU,2WD STD,2300,LIVIANO,PICK UP,OCASIONAL,GASOLINA,2,2,1,10771.44,1292.57,

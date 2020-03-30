@@ -1,4 +1,4 @@
-Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo_del_Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto;
 JAPON,EXPRESS AEREO,06/02/2019, 8704315100,1990,TOYOTA,REGULAR CAB,2400,LIVIANO,PICK UP,OCASIONAL,GASOLINA,2,2,0,21118.12,2534.17,;
 JAPON,TECUN UMAN,11/01/2019, 8703236900,2003,MAZDA,PROTEGE DX,2000,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,15643.89,1877.27,;
 CHINA,PUERTO QUETZAL,15/01/2019, 8711209000,2019,SERPENTO,CORAL 150,150,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,226674.35,27200.92,;

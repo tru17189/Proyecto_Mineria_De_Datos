@@ -1,4 +1,4 @@
-Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo del Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto,
+Pais_de_Proveniencia,Aduana de Ingreso, Fecha de la Poliza,Partida Arancelaria,Modelo_del_Vehiculo,Marca,Linea,Centimetros Cubicos,Distintivo,Tipo de Vehiculo,Tipo de Importador,Tipo Combustible,Asientos,Puertas,Tonelaje,Valor CIF,Impuesto,Impuesto,
 JAPON,EXPRESS AEREO,29/08/2018, 87114090,2014,KAWASAKI,EX300,300,LIVIANO,MOTO,OCASIONAL,GASOLINA,2,0,0,9531.81,1143.82,
 JAPON,EL CARMEN,11/08/2018, 8704315100,1988,TOYOTA,DLX X/C 4X4,2400,LIVIANO,PICK UP,OCASIONAL,GASOLINA,2,2,1,23649.15,2837.9,
 "COREA DEL SUR,G8,"" CENTRALSA,08/08/2018, 8703236900,2012,HYUNDAI,ACCENT GS,1600,LIVIANO,AUTOMOVIL,OCASIONAL,GASOLINA,5,4,0,18248.18,2189.78,"""
